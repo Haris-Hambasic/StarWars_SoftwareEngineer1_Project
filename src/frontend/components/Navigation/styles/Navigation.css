@@ -1,0 +1,16 @@
+.navigation-outer-container {}
+
+.navigation-inner-container {}
+
+.navigation-links {
+    display: flex;
+    list-style-type: none;
+}
+
+.navigation-link {
+    margin-right: 2rem;
+}
+
+.navigation-links:last-child {
+    margin-right: 0;
+}
